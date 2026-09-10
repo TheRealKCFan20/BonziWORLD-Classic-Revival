@@ -18,6 +18,14 @@ git clone https://github.com/TheRealKCFan20/BonziWORLD-Classic-Revival
 cd BonziWORLD-Classic-Revival
 ```
 
+### Cilent
+```
+cd build/www
+npm install
+grunt src_www
+cd ..
+```
+
 ### Server
 ```
 cd server
